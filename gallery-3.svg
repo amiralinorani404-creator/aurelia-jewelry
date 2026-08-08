@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 900" width="900" height="900">
+  <defs>
+    <linearGradient id="bg-gallery-3.svg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#1b1916"/>
+      <stop offset="100%" stop-color="#0a0908"/>
+    </linearGradient>
+    <radialGradient id="glow-gallery-3.svg" cx="50%" cy="46%" r="55%">
+      <stop offset="0%" stop-color="#b08d57" stop-opacity="0.2"/>
+      <stop offset="100%" stop-color="#b08d57" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="900" height="900" fill="url(#bg-gallery-3.svg)"/>
+  <rect width="900" height="900" fill="url(#glow-gallery-3.svg)"/>
+  
+    <path d="M 306.0 423.0 L 392.4 322.2 L 507.6 322.2 L 594.0 423.0 L 450.0 552.6 Z"
+          fill="none" stroke="#b08d57" stroke-width="2" opacity="0.9"/>
+    <path d="M 392.4 322.2 L 450.0 423.0 L 507.6 322.2 M 306.0 423.0 L 450.0 423.0 L 594.0 423.0"
+          fill="none" stroke="#b08d57" stroke-width="1" opacity="0.4"/>
+    
+  <line x1="409.5" y1="751.5" x2="490.5" y2="751.5" stroke="#d9c093" stroke-width="1" opacity="0.55"/>
+  <text x="450.0" y="783.0" font-family="Georgia, serif" font-size="18.0" fill="#a7a196"
+        text-anchor="middle" letter-spacing="2.7" opacity="0.85">GALLERY</text>
+</svg>

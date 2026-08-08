@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1400 1600" width="1400" height="1600">
+  <defs>
+    <linearGradient id="bg-hero.svg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#1b1916"/>
+      <stop offset="100%" stop-color="#0a0908"/>
+    </linearGradient>
+    <radialGradient id="glow-hero.svg" cx="50%" cy="46%" r="55%">
+      <stop offset="0%" stop-color="#b08d57" stop-opacity="0.2"/>
+      <stop offset="100%" stop-color="#b08d57" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="1400" height="1600" fill="url(#bg-hero.svg)"/>
+  <rect width="1400" height="1600" fill="url(#glow-hero.svg)"/>
+  
+    <path d="M 504.0 702.0 Q 700.0 947.0 896.0 702.0" fill="none" stroke="#b08d57" stroke-width="2" opacity="0.85"/>
+    <path d="M 684.32 921.52 L 700.0 1005.8000000000001 L 715.68 921.52 Z" fill="#b08d57" opacity="0.9"/>
+    
+</svg>

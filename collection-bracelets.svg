@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1250" width="1000" height="1250">
+  <defs>
+    <linearGradient id="bg-collection-bracelets.svg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#1b1916"/>
+      <stop offset="100%" stop-color="#0a0908"/>
+    </linearGradient>
+    <radialGradient id="glow-collection-bracelets.svg" cx="50%" cy="46%" r="55%">
+      <stop offset="0%" stop-color="#b08d57" stop-opacity="0.2"/>
+      <stop offset="100%" stop-color="#b08d57" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="1000" height="1250" fill="url(#bg-collection-bracelets.svg)"/>
+  <rect width="1000" height="1250" fill="url(#glow-collection-bracelets.svg)"/>
+  
+    <ellipse cx="500.0" cy="587.5" rx="160.0" ry="99.2" fill="none" stroke="#b08d57" stroke-width="2.5" opacity="0.9"/>
+    <ellipse cx="500.0" cy="587.5" rx="124.80000000000001" ry="76.8" fill="none" stroke="#b08d57" stroke-width="1" opacity="0.35"/>
+    
+  <line x1="455.0" y1="1043.75" x2="545.0" y2="1043.75" stroke="#d9c093" stroke-width="1" opacity="0.55"/>
+  <text x="500.0" y="1087.5" font-family="Georgia, serif" font-size="25.0" fill="#a7a196"
+        text-anchor="middle" letter-spacing="3.75" opacity="0.85">BRACELET</text>
+</svg>

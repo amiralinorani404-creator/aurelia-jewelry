@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1000" width="800" height="1000">
+  <defs>
+    <linearGradient id="bg-product-necklace-2.svg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#1b1916"/>
+      <stop offset="100%" stop-color="#0a0908"/>
+    </linearGradient>
+    <radialGradient id="glow-product-necklace-2.svg" cx="50%" cy="46%" r="55%">
+      <stop offset="0%" stop-color="#b08d57" stop-opacity="0.2"/>
+      <stop offset="100%" stop-color="#b08d57" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="800" height="1000" fill="url(#bg-product-necklace-2.svg)"/>
+  <rect width="800" height="1000" fill="url(#glow-product-necklace-2.svg)"/>
+  
+    <path d="M 272.0 406.0 Q 400.0 566.0 528.0 406.0" fill="none" stroke="#b08d57" stroke-width="2" opacity="0.85"/>
+    <path d="M 389.76 549.36 L 400.0 604.4 L 410.24 549.36 Z" fill="#b08d57" opacity="0.9"/>
+    
+  <line x1="364.0" y1="835.0" x2="436.0" y2="835.0" stroke="#d9c093" stroke-width="1" opacity="0.55"/>
+  <text x="400.0" y="870.0" font-family="Georgia, serif" font-size="20.0" fill="#a7a196"
+        text-anchor="middle" letter-spacing="3.0" opacity="0.85">NECKLACE</text>
+</svg>
